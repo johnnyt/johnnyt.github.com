@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>JohnnyT</title>
+  <link href="http://johnnyt.github.com/atom.xml" rel="self"/>
+  <link href="http://johnnyt.github.com/"/>
+  <updated>2011-08-22T16:23:24-06:00</updated>
+  <id>http://johnnyt.github.com/</id>
+  <author>
+    <name>JohnnyT</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Hello world!</title>
+    <link href="http://johnnyt.github.com/blog/2011/08/22/hello-world/"/>
+    <updated>2011-08-22T15:56:00-06:00</updated>
+    <id>http://johnnyt.github.com/blog/2011/08/22/hello-world</id>
+    <content type="html">&lt;p&gt;I just set up this blog using &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt; - which
+is built on top of &lt;a href=&quot;http://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;. Pretty
+slick - it only took about an hour.&lt;/p&gt;
+
+&lt;p&gt;Hopefully there will be more posts soon.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
