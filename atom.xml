@@ -4,13 +4,55 @@
   <title>JohnnyT</title>
   <link href="http://johnnyt.github.com/atom.xml" rel="self"/>
   <link href="http://johnnyt.github.com/"/>
-  <updated>2011-08-24T11:12:01-06:00</updated>
+  <updated>2011-10-21T09:36:19-06:00</updated>
   <id>http://johnnyt.github.com/</id>
   <author>
     <name>JohnnyT</name>
     
   </author>
 
+  
+  <entry>
+    <title>Amber - Smalltalk Brought to the Web</title>
+    <link href="http://johnnyt.github.com/blog/2011/10/21/amber-smalltalk-brought-to-the-web/"/>
+    <updated>2011-10-21T09:18:00-06:00</updated>
+    <id>http://johnnyt.github.com/blog/2011/10/21/amber-smalltalk-brought-to-the-web</id>
+    <content type="html">&lt;p&gt;So it's no secret that I &lt;strong&gt;love&lt;/strong&gt; Smalltalk. I recently found the &lt;a href=&quot;http://amber-lang.net&quot;&gt;Amber&lt;/a&gt; project and saw the awesome potential it has to help expose more people to the joy of Smalltalk. Here is an abstract and bio for the Amber presentation I'm working on.&lt;/p&gt;
+
+&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Amber is an implementation of the Smalltalk-80 language that runs on top of the JavaScript runtime. With Amber, client-side web development finally gets the power and productivity that has existed for decades in other Smalltalk dialects.&lt;/p&gt;
+
+&lt;p&gt;This presentation will:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Demo a real world example of how Amber has been introduced into existing web applications written in Ruby&lt;/li&gt;
+&lt;li&gt;Show how to access and quickly wrap existing JavaScript libraries (e.g. Google Analytics, Google Maps, Ace editor)&lt;/li&gt;
+&lt;li&gt;Show how to edit, inspect, test, debug and save client-side code live, all from within a web browser&lt;/li&gt;
+&lt;li&gt;Discuss how Amber can be easily incorporated into existing web applications - regardless of the back-end (Ruby/Rails, PHP, Seaside, etc) and how it can co-exist with existing client-side JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;When Avi Bryant created Clamato - which Amber is based on - he said &quot;the main objective is to have a more pleasant environment in which to write the client-side of web applications.&quot; Amber brings this Smalltalk environment, not just the language, to client-side web development. Amber is a way to expose more people to the joy of development in a Smalltalk environment without the commitment of changing existing back-end technologies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://amber-lang.net&quot;&gt;http://amber-lang.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/NicolasPetton/amber&quot;&gt;https://github.com/NicolasPetton/amber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://clamato.net&quot;&gt;http://clamato.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Biography&lt;/h2&gt;
+
+&lt;p&gt;JohnnyT (a.k.a. John Thornton) has been developing web applications for 15 years, the last 7 of which have been in Ruby. He was converted to Smalltalk in 2010 after looking into &lt;a href=&quot;https://github.com/MagLev/maglev&quot;&gt;MagLev&lt;/a&gt; and discovering the magical world of &lt;a href=&quot;http://www.gemstone.com&quot;&gt;GemStone&lt;/a&gt; powering it all. He started a local Utah Smalltalk Users Group (USMUG) to help him in his quest to share the joy of Smalltalk with everyone he can. He works on Amber and SubWars (an open-source GPS browser based submarine game) to scratch his Smalltalk itch and earns his living working for Alliance Health Networks in Salt Lake City, Utah.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://johnnyt.github.com&quot;&gt;http://johnnyt.github.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://alliancehealth.com&quot;&gt;http://alliancehealth.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>Hello world!</title>
