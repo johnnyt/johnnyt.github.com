@@ -4,13 +4,38 @@
   <title>JohnnyT</title>
   <link href="http://johnnyt.github.com/atom.xml" rel="self"/>
   <link href="http://johnnyt.github.com/"/>
-  <updated>2011-11-03T14:24:44-06:00</updated>
+  <updated>2011-11-05T15:47:31-06:00</updated>
   <id>http://johnnyt.github.com/</id>
   <author>
     <name>JohnnyT</name>
     
   </author>
 
+  
+  <entry>
+    <title>Open Sourcing SubWars</title>
+    <link href="http://johnnyt.github.com/blog/2011/11/05/open-sourcing-subwars/"/>
+    <updated>2011-11-05T15:35:00-06:00</updated>
+    <id>http://johnnyt.github.com/blog/2011/11/05/open-sourcing-subwars</id>
+    <content type="html">&lt;p&gt;Over the last couple of years, I have been slowly working on SubWars - a
+GPS based submarine game. I have had way too many fresh starts - new
+codebases, always some mix of Ruby, Smalltalk and MagLev. We just had
+our second little boy, and I now have even less time for side projects -
+so I'm open sourcing the project. I'll be working on getting different
+parts / versions up over the next couple of months, but the first little
+part is now up at GitHub.&lt;/p&gt;
+
+&lt;p&gt;I am yet again starting with a fresh codebase, this time I am writing
+the entire client side in &lt;a href=&quot;http://amber-lang.net&quot;&gt;Amber&lt;/a&gt;. There's
+not much there now, but its a start.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Code: &lt;a href=&quot;http://github.com/johnnyt/subwars&quot;&gt;http://github.com/johnnyt/subwars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SubWars: &lt;a href=&quot;http://johnnyt.github.com/subwars&quot;&gt;http://johnnyt.github.com/subwars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>Amber - Smalltalk Brought to the Web</title>
