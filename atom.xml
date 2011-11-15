@@ -4,13 +4,38 @@
   <title>JohnnyT</title>
   <link href="http://johnnyt.github.com/atom.xml" rel="self"/>
   <link href="http://johnnyt.github.com/"/>
-  <updated>2011-11-05T16:01:50-06:00</updated>
+  <updated>2011-11-15T10:16:38-07:00</updated>
   <id>http://johnnyt.github.com/</id>
   <author>
     <name>JohnnyT</name>
     
   </author>
 
+  
+  <entry>
+    <title>Online REPLs and IDEs</title>
+    <link href="http://johnnyt.github.com/blog/2011/11/15/online-repls-and-ides/"/>
+    <updated>2011-11-15T09:32:00-07:00</updated>
+    <id>http://johnnyt.github.com/blog/2011/11/15/online-repls-and-ides</id>
+    <content type="html">&lt;p&gt;In working on and playing around with &lt;a href=&quot;http://amber-lang.net&quot;&gt;Amber&lt;/a&gt; I
+have been checking out a bunch of online &lt;a href=&quot;http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop&quot;&gt;REPL&lt;/a&gt;s and &lt;a href=&quot;http://en.wikipedia.org/wiki/Integrated_development_environment&quot;&gt;IDE&lt;/a&gt;s. Check these out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cloud9ide.com&quot;&gt;Cloud9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubymonk.com&quot;&gt;RubyMonk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dartlang.org&quot;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://try.redis-db.com&quot;&gt;Redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tryclj.com&quot;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tryhaskell.org&quot;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tryruby.org&quot;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amber-lang.net/learn.html&quot;&gt;Smalltalk (Amber)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rstudio.org&quot;&gt;RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.knockoutjs.com&quot;&gt;KnockoutJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.akshell.com/ide&quot;&gt;Akshell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>Open Sourcing SubWars</title>
