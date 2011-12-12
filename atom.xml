@@ -4,13 +4,33 @@
   <title>JohnnyT</title>
   <link href="http://johnnyt.github.com/atom.xml" rel="self"/>
   <link href="http://johnnyt.github.com/"/>
-  <updated>2011-11-15T11:09:04-07:00</updated>
+  <updated>2011-12-12T11:33:29-07:00</updated>
   <id>http://johnnyt.github.com/</id>
   <author>
     <name>JohnnyT</name>
     
   </author>
 
+  
+  <entry>
+    <title>Weekend Work on the Studio</title>
+    <link href="http://johnnyt.github.com/blog/2011/12/12/weekend-work-on-the-studio/"/>
+    <updated>2011-12-12T11:10:00-07:00</updated>
+    <id>http://johnnyt.github.com/blog/2011/12/12/weekend-work-on-the-studio</id>
+    <content type="html">&lt;p&gt;I made some progress on my studio over the weekend:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-entry-bright.png'' width='150' height='200' alt='Entry - bright' title='Entry - bright'&gt;
+&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-entry-dim.png'' width='150' height='200' alt='Entry - dim' title='Entry - dim'&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-drums-bright.png'' width='200' height='150' alt='Drums - bright' title='Drums - bright'&gt;
+&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-drums-dim.png'' width='200' height='150' alt='Drums - dim' title='Drums - dim'&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-desk-bright.png'' width='200' height='150' alt='Desk - bright' title='Desk - bright'&gt;
+&lt;img class='' src='http://johnnyt.github.com/images/2011-12-12-weekend-work-on-the-studio/small/Studio-desk-dim.png'' width='200' height='150' alt='Desk - dim' title='Desk - dim'&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope to make even more progress over the holidays.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Early Smalltalk and Apple</title>
